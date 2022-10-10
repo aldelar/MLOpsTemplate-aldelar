@@ -1,4 +1,4 @@
-name: feature_engineering_unit_test
+name: feature-engineering-unit-test
 on:
   workflow_dispatch:
   push:

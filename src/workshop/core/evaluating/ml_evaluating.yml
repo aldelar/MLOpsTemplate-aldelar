@@ -18,6 +18,6 @@ environment:
   image: mcr.microsoft.com/azureml/openmpi3.1.2-ubuntu18.04:latest
   
 compute: azureml:cpu-cluster
-display_name: ml-evaluation
-experiment_name: ml-evaluation
-description: ml-evaluation
+display_name: mlops-evaluation
+experiment_name: mlops-evaluation
+description: mlops evaluation
